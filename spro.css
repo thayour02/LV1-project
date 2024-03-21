@@ -1,0 +1,277 @@
+body{
+    height: 100%;
+}
+.nav{
+    background-color: black;
+}
+.lg{
+    width: 70px;
+}
+.o{
+    padding: 2 20px;
+}
+.spi{
+    padding: 0 50px;
+}
+.home{
+    padding: 0 50px;
+}
+.home .:hover{
+    color: #1ed760;
+}
+.pro{
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 60px;
+    border: 2px solid #1ed760;
+    margin-right: 20px;
+    color: #fff;
+    cursor: pointer;
+}
+.ppp{
+    cursor: pointer;
+}
+.main{
+    height: 570px;
+    position: relative;
+}
+.smain{
+    background-color:darkblue;
+    margin: 0 120px;
+    height: 570px;
+}
+.maain{
+    padding-top: 100px;
+    padding-left: 20px;
+    
+}
+.iphone{
+   width: 400px;
+   height: 469px;
+}
+.hello{
+    font-size: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.want{
+    width: 600px;
+font-size: 15px;
+}
+.aree{
+    background-color: gray;
+    height: 1750px;
+    width: 300px;
+    margin: 0 120px;
+}
+.proo{
+    margin-left: 60px;
+    background-color: black;
+    height: 130px;
+    width: 130px;
+    text-align: center;
+    padding-top: 50px;
+    border-radius: 100%;
+}
+.pp{
+    padding-left: 20px;
+}
+.Salo{
+ height: 1750px;
+ width: 890px;
+ background-color:#fff;
+position: absolute;
+margin-left: 420px;
+}
+.rev{
+    position: relative;
+    width: 1080px;
+}
+.dj{
+    width: 100%;
+    height: 2900px;   
+    position: absolute;
+    background-color: black;
+}
+hr{
+    width: 90%;
+    padding: 20px 0 0 20px;
+    margin-bottom: 100px;
+}
+.user{
+    padding: 0px 0px 0px 10px;
+}
+.line{
+    line-height: 10px;
+}
+.code{
+    margin-right: 200px;
+}
+.codee{
+    margin-right: 260px;
+}
+.ngn{
+    margin-right: 330px;
+}
+.may{
+    margin-right: 360px;
+}
+.edit{
+    border-radius: 50px;
+    border: 0.5px solid black;
+    width: 150px;
+    height: 50px;
+}
+.pre{
+    background-color: #ffd2d7;
+    height: 450px;
+    width: 740px;
+    margin-left: 40px;
+    border-radius: 10px;
+}
+.prein{
+   padding-top: 100px;
+}
+.white{
+    background-color: #fff;
+    height: 288px;
+    width: 730px;
+    margin-left: 5px;
+}
+.mar{
+    margin-left: 20px;
+}
+.tex{
+    text-decoration: underline;
+}
+.pay{
+    line-height: 20px;
+    text-align: justify;
+}
+.ment{
+    margin-left: 100px;
+}
+.men{
+    margin-left: 70px;
+}
+.liam{
+    text-decoration: none;
+}
+.liamm{
+    text-decoration: none;
+    margin-left: 40px;
+}
+.liim{
+    text-decoration: none;
+    padding-left: 30px;
+}
+.masl{
+width: 25px;
+height: 20px;
+
+}
+.upda{
+ margin-left: 300px;  
+ color: gray; 
+ margin-top: 30px;
+}
+.change{
+    width: 150px;
+    height: 50px;
+    border-radius: 80px;
+    border: 0.5px solid black;
+    background-color: #fff;
+}
+.lastt{
+    text-align: justify;
+}
+.cont{
+    border: 0.5px solid gray;
+    height: 50px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.changee{
+    width: 200px;
+    height: 50px;
+    border-radius: 80px;
+    border: 0.5px solid black;
+    background-color: #fff;
+}
+.blac{ 
+    padding: 0 ;
+    position: relative;
+    padding-bottom: 800px;
+}
+.ccu{
+    margin-left: 450px;
+    margin-bottom: 50px;
+    color: gray;
+    position: absolute;
+}
+.comp{
+    margin-top: 80px;
+}
+.ajf{
+    cursor: pointer;
+}
+.PPP{
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.fit{
+    text-align: center;
+    margin-left: 1000px;
+    position: absolute;
+    margin-top: 80px;
+    gap: 20px;
+}
+.fff{
+    width: 70px;
+    height: 70px;
+    font-size: 50px;
+    background-color: gray;
+    border-radius: 100%;
+    padding-top: 10px;
+}
+.lagp{
+    padding-top: 400px;
+    position: absolute;
+    color: gray;
+}
+.blk{
+    width: 100%;
+    height: 1000px;
+    background: #000;
+    padding: 40px 90px;
+}
+.btn{
+    color: #1bd760;
+    background: none;
+}
+.menu{
+    line-height: 20px;
+}
+.frt{
+    background: none;
+    border: 0;
+}
+.arw{
+    margin-left: 200px;
+}
+.aar{
+    margin-left: 30px;
+}
+.GOO{
+    color: gray;
+    width: 100px;
+    padding-left: 20px;
+    border-radius: 50px;
+    height: 35px;
+    padding-top: 5px;
+}
+.kill{
+    height: 800px;
+    background-color: #232323;
+}
